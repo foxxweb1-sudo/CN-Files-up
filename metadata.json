@@ -1,0 +1,6 @@
+{
+  "name": "CN-Img Cloud - منصة رفع وإدارة الملفات السحابية المتقدمة",
+  "description": "منصة سحابية متطورة وفائقة السرعة لرفع وإدارة ومشاركة الصور والملفات، مع خوادم موزعة، أدوات معالجة الصور، توليد أكواد SDK، وروابط مشاركة مباشرة مع QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
